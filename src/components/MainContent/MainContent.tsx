@@ -11,7 +11,7 @@ import {
   closeBtn
 } from "../Reduser/Reduser";
 
-interface MainContentProps {}
+interface MainContentProps {};
 
 const MainContent: React.FC<MainContentProps> = () => {
   const clicks = useSelector((state: RootState) => state.reduser.clicks);
