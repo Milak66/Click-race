@@ -131,7 +131,7 @@
     border-radius: 2vw;
     font-size: 1.2vw;
     border: none;
-    background-color: rgb(176, 6, 243);
+    background-color: rgb(150, 0, 150);
     cursor: pointer;
 }
 
@@ -154,7 +154,7 @@
 
 .autor_link {
     font-size: 1.7vw;
-    color: rgb(176, 6, 243);
+    color: rgb(150, 0, 150);
     text-decoration: none;
 }
 
@@ -262,7 +262,7 @@
         border-radius: 3vw;
         font-size: 2.8vw;
         border: none;
-        background-color: rgb(176, 6, 243);
+        background-color: rgb(150, 0, 150);
         cursor: pointer;
     }
 
@@ -285,7 +285,7 @@
     
     .autor_link {
         font-size: 3vw;
-        color: rgb(176, 6, 243);
+        color: rgb(150, 0, 150);
         text-decoration: none;
     }
 }
